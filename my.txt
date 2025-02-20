@@ -1,1 +1,1 @@
-lskdmv
+hi this is first line of my.txt
